@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     # local
     'store.apps.StoreConfig',
     'users.apps.UsersConfig',
+    'cashierSystem.apps.CashiersystemConfig',
 ]
 
 MIDDLEWARE = [
